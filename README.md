@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/603ff2e2-f555-4464-a42d-187a251e1627)
+![MasterHead](https://github.com/user-attachments/assets/b8a97fc5-bbec-43f7-abac-8dc4b9f712d7)
 
 <h1 align="center">Hey!! 👋 I'm SAGAR CHUDASAMA</h1>
 <h3 align="center">A Passionate Developer from India</h3>
