@@ -12,6 +12,13 @@
 📫 How to reach me **sagar.chudasama2007@gmail.com**
 
 
+<div align="center">
+ 
+![snake gif](https://github.com/SagarChudasama-git/SagarChudasama-git/blob/output/github-snake-dark.svg)
+
+</div>
+
+
 ## 🌐 Socials:
  
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sagar.chudasama7?igsh=MTRpOGl3YmUxeWhldA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-chudasama-537264277/) 
@@ -24,5 +31,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=sagarchudasama-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sagarchudasama-git&theme=dark&hide_border=false)<br/>
+<div align="center">
+ 
+  ![](https://github-readme-stats.vercel.app/api?username=sagarchudasama-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
+
