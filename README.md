@@ -9,7 +9,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/SagarChudasama-git](https://github.com/SagarChudasama-git)
 
-💼 My Portfolio available at [https://sagarchudasama-git.github.io/PortfolioWebsite-by-Sagar/](https://sagarchudasama-git.github.io/PortfolioWebsite-by-Sagar/)
+💼 My Portfolio available at [Sagar's Portfolio](https://sagarchudasamaportfolio.netlify.app/)
 
 💬 Ask me about **Python, MySQL, Pandas, Numpy, Matploatlib, Web Development**
 
