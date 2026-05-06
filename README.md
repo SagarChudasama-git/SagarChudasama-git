@@ -9,11 +9,9 @@
 
 👨‍💻 All of my projects are available at [https://github.com/SagarChudasama-git](https://github.com/SagarChudasama-git)
 
-💼 My Portfolio available at [Sagar's Portfolio](https://sagarchudasamaportfolio.netlify.app/)
+💬 Ask me about **Python, Java, Android, Software Developement**
 
-💬 Ask me about **Python, MySQL, Pandas, Numpy, Matploatlib, Web Development**
-
-📫 How to reach me **sagar.chudasama2007@gmail.com**
+📫 How to reach me **infosagarchudasama@gmail.com**
 
 
 <div align="center">
@@ -25,23 +23,35 @@
 
 # 🌐 Socials:
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-chudasama-537264277/) 
+<div align="Left">
+  <a href="https://in.linkedin.com/in/sagar-chudasama-537264277?trk=people-guest_people_search-card" target="_parent">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/SagarChudasama_" target="_parent">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+</div>
 
+<br>
 
+# 🧰 Languages and Tools:
 
-# 💻 Tech Stack:
+![Python](https://skillicons.dev/icons?i=python&theme=light)&nbsp;&nbsp;
+![Java](https://skillicons.dev/icons?i=java&theme=light)&nbsp;&nbsp;
+![Html](https://skillicons.dev/icons?i=html&theme=light)&nbsp;&nbsp;
+![CSS](https://skillicons.dev/icons?i=css&theme=light)&nbsp;&nbsp;
+![PHP](https://skillicons.dev/icons?i=php&theme=light)&nbsp;&nbsp;
+![Mysql](https://skillicons.dev/icons?i=mysql&theme=light)&nbsp;&nbsp;
+![SQLite](https://skillicons.dev/icons?i=sqlite&theme=light)&nbsp;&nbsp;
+![Git](https://skillicons.dev/icons?i=git&theme=light)&nbsp;&nbsp;
+![Github](https://skillicons.dev/icons?i=github&theme=light)&nbsp;&nbsp;
+![Google Cloud](https://skillicons.dev/icons?i=gcp&theme=light)&nbsp;&nbsp;
+![VSCODE](https://skillicons.dev/icons?i=vscode&theme=light)&nbsp;&nbsp;
+![Pycharm](https://skillicons.dev/icons?i=pycharm&theme=light)&nbsp;&nbsp;
 
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![Html](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)  [![Mysql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  [![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev) [![Google Cloud](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)  [![VSCODE](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  [![Pycharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
+<br>
 
 # 📊 GitHub Stats:
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarChudasama-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </br>
-![](https://github-readme-stats.vercel.app/api?username=SagarChudasama-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=SagarChudasama-git&theme=dark&hide_border=false)
- 
----
-[![](https://visitcount.itsvg.in/api?id=SagarChudasama-git&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=sagarchudasama-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sagarchudasama-git&theme=dark&hide_border=false)
