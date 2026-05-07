@@ -1,7 +1,8 @@
-![MasterHead](https://github.com/user-attachments/assets/702a351d-5bff-4757-ba2e-974a4b142185)
+<img src="https://github.com/SagarChudasama-git/SagarChudasama-git/blob/main/svg.svg" alt="Hey I'm SagarChudasama, a.k.a. Sagar C M"/>
 
-<h1 align="center">Hey!! 👋 I'm SAGAR CHUDASAMA</h1>
 <h3 align="center">A Passionate Developer from India</h3>
+
+<br>
 
 # About Me:
 
