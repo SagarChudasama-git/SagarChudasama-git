@@ -56,3 +56,8 @@
 ![](https://streak-stats.demolab.com/?user=sagarchudasama-git&theme=dark&hide_border=false)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.shion.dev/api?username=sagarchudasama-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sagarchudasama-git&theme=dark&radius=10" alt="sagarchudasama-git's Activity Graph" />
+</p>
+
+
