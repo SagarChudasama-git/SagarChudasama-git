@@ -19,12 +19,12 @@
 
 		.byReevenContainer{
                 display: flex;
-				 flex-direction: column;
+				flex-direction: column;
                 align-items: center;
                 justify-content: center;
-			border-radius: 15px;
+			    border-radius: 15px;
 				width: 100%;
-				 background: #333;
+				background: #151b23;
 				padding-top:100px;
 				padding-bottom:100px;
 		}
