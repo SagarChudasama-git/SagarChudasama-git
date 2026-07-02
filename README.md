@@ -22,7 +22,7 @@
 </div>
 
 
-# 🌐 Socials:
+# Socials:
  
 <div align="Left">
   <a href="https://in.linkedin.com/in/sagar-chudasama-537264277?trk=people-guest_people_search-card" target="_parent">
@@ -34,27 +34,28 @@
 
 <br>
 
-# 🧰 Languages and Tools:
-
+## Programming Languages
 ![Python](https://skillicons.dev/icons?i=python&theme=light)&nbsp;&nbsp;
 ![Java](https://skillicons.dev/icons?i=java&theme=light)&nbsp;&nbsp;
-![Html](https://skillicons.dev/icons?i=html&theme=light)&nbsp;&nbsp;
-![CSS](https://skillicons.dev/icons?i=css&theme=light)&nbsp;&nbsp;
+![C](https://skillicons.dev/icons?i=c&theme=light)&nbsp;&nbsp;
 ![PHP](https://skillicons.dev/icons?i=php&theme=light)&nbsp;&nbsp;
-![Mysql](https://skillicons.dev/icons?i=mysql&theme=light)&nbsp;&nbsp;
-![SQLite](https://skillicons.dev/icons?i=sqlite&theme=light)&nbsp;&nbsp;
+
+## Tools & Technologies
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)&nbsp;&nbsp;
+![SQLite](https://skillicons.dev/icons?i=sqlite&theme=light)
 ![Git](https://skillicons.dev/icons?i=git&theme=light)&nbsp;&nbsp;
-![Github](https://skillicons.dev/icons?i=github&theme=light)&nbsp;&nbsp;
+![GitHub](https://skillicons.dev/icons?i=github&theme=light)&nbsp;&nbsp;
 ![Google Cloud](https://skillicons.dev/icons?i=gcp&theme=light)&nbsp;&nbsp;
-![VSCODE](https://skillicons.dev/icons?i=vscode&theme=light)&nbsp;&nbsp;
-![Pycharm](https://skillicons.dev/icons?i=pycharm&theme=light)&nbsp;&nbsp;
+![VS Code](https://skillicons.dev/icons?i=vscode&theme=light)&nbsp;&nbsp;
+![PyCharm](https://skillicons.dev/icons?i=pycharm&theme=light)
 
 <br>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
-![](https://streak-stats.demolab.com/?user=sagarchudasama-git&theme=dark&hide_border=false)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.shion.dev/api?username=sagarchudasama-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SagarChudasama-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=sagarchudasama-git&theme=dark&hide_border=false)
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sagarchudasama-git&theme=dark&radius=10" alt="sagarchudasama-git's Activity Graph" />
 </p>
