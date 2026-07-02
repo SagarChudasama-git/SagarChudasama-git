@@ -23,32 +23,38 @@
 
 
 ## Socials:
- 
-<div align="Left">
-  <a href="https://in.linkedin.com/in/sagar-chudasama-537264277?trk=people-guest_people_search-card" target="_parent">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/SagarChudasama_" target="_parent">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-</div>
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
 <br>
 
 ## Programming Languages
-![Python](https://skillicons.dev/icons?i=python&theme=light)&nbsp;&nbsp;
-![Java](https://skillicons.dev/icons?i=java&theme=light)&nbsp;&nbsp;
-![C](https://skillicons.dev/icons?i=c&theme=light)&nbsp;&nbsp;
-![PHP](https://skillicons.dev/icons?i=php&theme=light)&nbsp;&nbsp;
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/light/python" width="64px" />
+<img src="https://iconic-api.onrender.com/light/java" width="64px" />
+<img src="https://iconic-api.onrender.com/light/c" width="64px" />
+<img src="https://iconic-api.onrender.com/light/php" width="64px" />
+<div>
 
 ## Tools & Technologies
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)&nbsp;&nbsp;
-![SQLite](https://skillicons.dev/icons?i=sqlite&theme=light)
-![Git](https://skillicons.dev/icons?i=git&theme=light)&nbsp;&nbsp;
-![GitHub](https://skillicons.dev/icons?i=github&theme=light)&nbsp;&nbsp;
-![Google Cloud](https://skillicons.dev/icons?i=gcp&theme=light)&nbsp;&nbsp;
-![VS Code](https://skillicons.dev/icons?i=vscode&theme=light)&nbsp;&nbsp;
-![PyCharm](https://skillicons.dev/icons?i=pycharm&theme=light)
 
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/light/mysql" width="64px" />
+<img src="https://iconic-api.onrender.com/light/git" width="64px" />
+<img src="https://iconic-api.onrender.com/light/github" width="64px" />
+<img src="https://iconic-api.onrender.com/light/gcp" width="64px" />
+<img src="https://iconic-api.onrender.com/light/vscode" width="64px" />
+<img src="https://iconic-api.onrender.com/light/intellij" width="64px" />
+<img src="https://iconic-api.onrender.com/light/pycharm" width="64px" />
+<img src="https://iconic-api.onrender.com/light/firebase" width="64px" />
+<img src="https://iconic-api.onrender.com/light/jupyter" width="64px" />
+<img src="https://iconic-api.onrender.com/light/canva" width="64px" />
+<div>
+ 
 <br>
 
 ## GitHub Stats:
