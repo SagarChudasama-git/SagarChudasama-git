@@ -4,7 +4,7 @@
 
 <br>
 
-# About Me:
+## About Me:
 
 🌱 I’m currently learning **Computer Science & Engineering**
 
@@ -22,7 +22,7 @@
 </div>
 
 
-# Socials:
+## Socials:
  
 <div align="Left">
   <a href="https://in.linkedin.com/in/sagar-chudasama-537264277?trk=people-guest_people_search-card" target="_parent">
@@ -51,10 +51,10 @@
 
 <br>
 
-# GitHub Stats:
+## GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=sagarchudasama-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=sagarchudasama-git&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=sagarchudasama-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 [![Sagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sagarchudasama-git&bg_color=24292f&color=adbac7&line=adbac7&point=5367fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
