@@ -24,11 +24,11 @@
 
 ## Socials:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+<a href="https://in.linkedin.com/in/sagar-chudasama-537264277" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://x.com/SagarChudasama_" target="blank"> ![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white) </a>
+<a href="https://www.instagram.com/isagarchudasama?igsh=YjJoNnM5d2t1b29q" target="blank"> ![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
+<a href="https://t.me/Sagar_CM" target="blank"> ![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white) </a>
+<a href="" target="blank"> ![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) </a>
 
 <br>
 
